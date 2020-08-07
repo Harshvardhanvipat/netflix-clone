@@ -1,3 +1,5 @@
+Live website at : https://netflix-clone-71f0a.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
